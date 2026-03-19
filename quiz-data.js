@@ -484,7 +484,7 @@ const QUIZ_DATA = {
         {type: 'writing', prompt: 'Ha Noi / become / one / most attractive / destinations / foreign visitors.', answer: 'Ha Noi has become one of the most attractive destinations for foreign visitors.'},
         {type: 'writing', prompt: 'By / join / more international organisations, our country / become / member / higher community.', answer: 'By joining more international organizations, our country has become a member of a higher community.'},
         {type: 'writing', prompt: 'Many / young people / nowadays / prefer / working / more competitive / working environment.', answer: 'Many young people nowadays prefer working in a more competitive working environment.'},
-        {type: 'writing', prompt: 'Various / job opportunities / be now available / young people / province.', answer: 'Various job opportunities are now available to young people in the province.'}
+        {type: 'writing', prompt: 'Various / job opportunities / be now available / young people / province.', answer: 'Various job opportunities are now available for young people in the province.'}
       ]
     },
 
