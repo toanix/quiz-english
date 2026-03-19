@@ -1244,7 +1244,7 @@ function initModes() {
   // Generate mode cards
   QUIZ_DATA.modes.forEach((mode, idx) => {
     const card = document.createElement('div');
-    card.className = 'mode-card' + (idx === 0 ? ' selected' : '');
+    card.className = 'mode-card' + (idx === 6 ? ' selected' : '');
     card.dataset.mode = mode.id;
     
     card.innerHTML = `
